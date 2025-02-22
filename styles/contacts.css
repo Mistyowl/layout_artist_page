@@ -25,9 +25,15 @@
 }
 
 .button-link {
+    display: block;
+    width: 210px;
     font-size: 24px;
     font-weight: 500;
     color: var(--bg-main);
+    padding: 8px;
+    background-color: black;
+    border-radius: 25px;
+    margin: 75px auto 40px;
 }
 
 .socials {
